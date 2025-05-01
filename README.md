@@ -9,10 +9,12 @@ You can view the CV locally by opening the `index.html` file in your web browser
 ## 📁 Project Structure
 
 Single-CV/
-│
-├── index.html         # Main HTML file (CV content)
-├── images/            # Folder for profile or illustrative images
-├── favicon-cv.png     # Custom favicon
+
+  ├── index.html         # Main HTML file (CV content)
+
+  ├── images/            # Folder for profile or illustrative images
+
+  ├── favicon-cv.png     # Custom favicon
 
 ## ✨ Features
 
