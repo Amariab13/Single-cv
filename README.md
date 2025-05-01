@@ -50,8 +50,6 @@ Single-CV/
 
 ## 📬 Contact
 
-If you'd like to connect or collaborate:
-
 - **Email**: amaria@xxx.com  
 - **Location**: Marseille, France  
 - **LinkedIn / GitHub**:
