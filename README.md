@@ -1,6 +1,6 @@
-# Amaria Boualam – Web Developer CV
+# AmariaB – Web Developer CV
 
-This project is a personal online CV (Curriculum Vitae) for **Amaria Boualam**, a junior web developer based in Marseille, France. The CV is built using semantic HTML5 and provides an overview of Amaria's skills, experience, and education in web development and IT.
+This project is a personal online CV (Curriculum Vitae) for **Amaria B**, a junior web developer based in Marseille, France. The CV is built using semantic HTML5 and provides an overview of Amaria's skills, experience, and education in web development and IT.
 
 ## 🌐 Live Preview
 
@@ -8,16 +8,11 @@ You can view the CV locally by opening the `index.html` file in your web browser
 
 ## 📁 Project Structure
 
-
-
-📁 Project Structure
-
 Single-CV/
 │
 ├── index.html         # Main HTML file (CV content)
 ├── images/            # Folder for profile or illustrative images
 ├── favicon-cv.png     # Custom favicon
-├── styles/ (optional) # Place for custom CSS if added
 
 ## ✨ Features
 
@@ -59,31 +54,5 @@ If you'd like to connect or collaborate:
 
 - **Email**: amaria@xxx.com  
 - **Location**: Marseille, France  
-- **LinkedIn / GitHub**: [To be added in the footer section]
-oduction
+- **LinkedIn / GitHub**:
 
-Skills: Programming languages, tools, and soft skills
-
-Education: Certifications and training history
-
-Experience: Professional background and responsibilities
-
-Footer: Placeholder for GitHub and LinkedIn links
-
-🛠️ How to Use
-Clone or download this repository.
-
-Open index.html in a browser to view the CV.
-
-Customize the content as needed (text, contact info, links).
-
-Optional: Add a stylesheet to enhance visual design.
-
-📬 Contact
-If you'd like to connect or collaborate:
-
-Email: amaria@xxx.com
-
-Location: Marseille, France
-
-LinkedIn / GitHub: [To be added in the footer section]
