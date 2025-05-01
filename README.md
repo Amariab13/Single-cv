@@ -56,3 +56,5 @@ Single-CV/
 - **Location**: Marseille, France  
 - **LinkedIn / GitHub**:
 
+  ## Visit the site on : https://amariab13.github.io/Single-cv-/
+
