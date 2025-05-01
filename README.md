@@ -2,9 +2,11 @@
 
 This project is a personal online CV (Curriculum Vitae) for **Amaria B**, a junior web developer based in Marseille, France. The CV is built using semantic HTML5 and provides an overview of Amaria's skills, experience, and education in web development and IT.
 
+
 ## 🌐 Live Preview
 
-You can view the CV locally by opening the `index.html` file in your web browser.
+You can view the live CV here:  
+👉 [https://Amariab13.github.io/Single-cv-/](https://Amariab13.github.io/Single-cv-/)
 
 ## 📁 Project Structure
 
