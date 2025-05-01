@@ -5,9 +5,11 @@ This project is a personal online CV (Curriculum Vitae) for **Amaria B**, a juni
 
 ## 🌐 Live Preview
 
-                  👉GitHub Repository: [https://github.com/Amariab13/Single-cv-/](https://github.com/Amariab13/Single-cv-/)
+                 GitHub Repository (sans tiret à la fin) :
+              🔗https://github.com/Amariab13/Single-cv
 
-                  🌐 Live Page (GitHub Pages): [https://Amariab13.github.io/Single-cv-/](https://Amariab13.github.io/Single-cv-/)
+              GitHub Pages (correspondant au dépôt) :
+              🌐 https://amariab13.github.io/Single-cv-/
 
 ## 📁 Project Structure
 
